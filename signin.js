@@ -20,6 +20,7 @@ function validateform() {
     } 
     else
     {
+        window.location.href="/projectphase1/getquatation actionpage.html";
       /*<form action="/getquatation actionpage.html"> </form>
       <input type="submit" id="register" value="Request a Quote" onclick="getquatation actionpage.html"></input>*/
     }
